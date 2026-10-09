@@ -57,6 +57,7 @@ I'm a developer who loves to learn, build, and break things (then fix them 🔧)
 ## 📌 推荐项目
 
 - ⭐ [HarmonyOS-Haps](https://github.com/fang361/HarmonyOS-Haps) — 鸿蒙 HAP 安装包合集
+- 🗂️ [awesome-links](https://github.com/fang361/awesome-links) — 实用网站收藏
 - 🚀 [Project A](https://github.com/fang361) — 一句话介绍
 
 ---
